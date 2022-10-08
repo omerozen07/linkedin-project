@@ -1,0 +1,30 @@
+.navicon {
+    padding-right: 100px;
+}
+
+.container-img {
+    position: relative;
+  }
+  
+  .center-bottom {
+    position: absolute;
+    text-align:center;
+    top: 60%;
+    width: 100%;
+    font-size: 50px;
+    color: orangered;
+  }
+
+  
+  .img-photo {
+    position: absolute; 
+    margin-left: 450px; 
+    top: 40%;
+  }
+  .img-word {
+      position: absolute;
+      margin-left: 10px;
+      top: 10px;
+      color: red;
+      font-size: 15px;
+  }
